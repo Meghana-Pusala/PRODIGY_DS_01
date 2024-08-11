@@ -4,14 +4,18 @@ Welcome to my submission for Task 1 of the Data Science Internship at Prodigy In
 
 **DATASET**
 
-The dataset used for this task is Task1.csv. This dataset contains records of population from the year 2001 to 2022.
+The dataset used for this task is ../https://data.worldbank.org/indicator/SP.POP.TOTL. This dataset contains records of population from the year 2001 to 2022.
 
 **TOOLS AND LIBRARIES USED**
 
 Jupyter notebook
+
 Pandas
+
 Numpy
+
 Matplotlib for visualization
+
 
 **EXPLOITARY DATA ANALYSIS (EDA)**
 
