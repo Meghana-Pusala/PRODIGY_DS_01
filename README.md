@@ -4,7 +4,7 @@ Welcome to my submission for Task 1 of the Data Science Internship at Prodigy In
 
 **DATASET**
 
-The dataset used for this task is ./Task1.csv. This dataset contains records of population from the year 2001 to 2022.
+The dataset used for this task is Task1.csv. This dataset contains records of population from the year 2001 to 2022.
 
 **TOOLS AND LIBRARIES USED**
 
@@ -22,6 +22,7 @@ During the EDA process, I performed the following steps:
 **Visualization**: Created a bar chart, Pie chart, Graphs to visualize the distribution of a categorical or continuous variable.
 
 **CONCLUSION**
+
 In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
 
 Thank you for reviewing my submission!
